@@ -1,4 +1,4 @@
 world_cities
 ============
 
-A YAML database of countries and major cities in each country 
+A YAML + JSON database of countries and major cities in each country 
